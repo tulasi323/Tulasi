@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main()
+{
+    int a,b,sum;
+    printf("initial passengers in the bus:");
+    scanf("%d",&a);
+    printf("no.of passengers got on to the bus in the next stop:");
+    scanf("%d",&b);
+    sum=a+b;
+    printf("total no.of passengers: %d\n",sum);
+    return 0;
+}
+OUTPUT
+initial passengers in the bus:23
+no.of passengers got on to the bus in the next stop:12
+total no.of passengers: 35
+
+
+=== Code Execution Successful ===
