@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+    int a=345;
+    int b=278;
+    int sum=a+b;
+    printf("total no.of books: %d\n",sum);
+    return 0;
+}
+OUTPUT
+total no.of books: 623
+
+
+=== Code Execution Successful ===
