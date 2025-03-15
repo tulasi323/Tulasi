@@ -1,0 +1,19 @@
+#include <stdio.h>
+int main()
+{
+    int a,b,sum;
+    printf("enter the value of a:");
+    scanf("%d",&a);
+    printf("enter the value of b:");
+    scanf("%d",&b);
+    sum=a+b;
+    printf("total number of chairs: %d\n",sum);
+    return 0;
+}
+OUTPUT
+enter the value of a:15
+enter the value of b:18
+total number of chairs: 33
+
+
+=== Code Execution Successful ===
